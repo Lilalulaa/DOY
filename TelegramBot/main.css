@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+.container{
+  background-color: aliceblue;
+}
+
+body{
+  background-image: url(https://wallpapers-hub.art/wallpaper-images/666656.jpg);
+}
+
+img{
+  max-width: 100%;
+}
